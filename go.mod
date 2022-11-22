@@ -1,4 +1,4 @@
-module github.com/m2tB/otaku-protos
+module github.com/m2tB/protos-lib
 
 go 1.19
 
